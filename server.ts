@@ -4,7 +4,7 @@ import { createServer as createViteServer } from "vite";
 import dotenv from "dotenv";
 import fs from "fs/promises";
 import { existsSync } from "fs";
-import { defaultSiteData } from "./src/default-site-data";
+import { defaultSiteData } from "./default-site-data";
 
 // Load environment variables
 dotenv.config();
