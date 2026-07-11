@@ -1,0 +1,218 @@
+import { SiteData } from './types';
+
+export const defaultSiteData: SiteData = {
+  hero: {
+    introText: "I'm Hari krishna",
+    title: "We build websites that grow your business",
+    words: [
+      'Web Developer',
+      'UI/UX Designer',
+      'Automation Expert'
+    ],
+    description: "Premium web design, Next.js development, and SEO optimization. We deliver stunning, high-performing websites tailored to scale your brand.",
+    hasProfilePhoto: false,
+    buttonHireText: "Let's Connect",
+    buttonContactText: "Contact Me"
+  },
+  about: {
+    title: "One mind, clear vision.",
+    subtitle: "About Me",
+    desc1: "I'm Hari krishna — the sole mind behind animenova. No big team, no unnecessary meetings, no wasted hours.",
+    desc2: "As a young developer with innovative thinking, I work efficiently, with quality, and fast. I manage and execute everything myself to deliver the best result. No 500 hours of work for things that simply need to work. I'm the best partner you'll find when it comes to excellence.",
+    skills: [
+      { name: 'Web Development', value: 98 },
+      { name: 'UI/UX Design', value: 95 },
+      { name: 'Automation', value: 90 }
+    ],
+    metrics: [
+      { label: 'Clients', value: '100%', description: 'Satisfied Clients', icon: 'Award' },
+      { label: 'Founded', value: 'Apr, 2026', description: 'Agency Founded', icon: 'Calendar' }
+    ],
+    bioModalText1: "Hari krishna is a passionate developer who founded animenova in April 2026 with a single focused vision: eliminating agency bloat and delivering high-performance, visually spectacular digital assets that grow your business.",
+    bioModalText2: "Instead of lengthy back-and-forths, Hari manages the entire design-to-live-deployment process independently. This results in ultra-fast turnaround times, clean codebase architectures, and uncompromised quality.",
+    competencies: [
+      'Pixel-Perfect Web Development',
+      'High-Fidelity UI/UX Design',
+      'Intelligent Workflow Automation',
+      'Next.js & React Architectures',
+      'Advanced Search Engine Optimization (SEO)',
+      'Lightning-fast Execution & Delivery'
+    ]
+  },
+  services: [
+    {
+      id: 's1',
+      title: 'Web Development',
+      description: 'Building modern, reliable, and scalable solutions tailored to your business needs, with optimized performance and lightning-fast speed.',
+      iconName: 'Code',
+    },
+    {
+      id: 's2',
+      title: 'UI/UX Design',
+      description: 'Transforming ideas into powerful, user-friendly digital experiences with high visual standards and professional design.',
+      iconName: 'Laptop',
+    },
+    {
+      id: 's3',
+      title: 'Automation',
+      description: 'Delivering innovative digital solutions and automated workflows that help businesses grow, scale, and succeed efficiently.',
+      iconName: 'Zap',
+    },
+  ],
+  experiences: [
+    {
+      id: 'exp1',
+      date: 'April, 2026',
+      role: 'Agency Founded',
+      company: 'animenova',
+      description: 'Founded animenova to help businesses grow by delivering high-performing, gorgeous websites and intelligent web automations.',
+    },
+    {
+      id: 'exp2',
+      date: '2024 - Present',
+      role: 'Independent Web Developer & UI Designer',
+      company: 'Freelance & Contracting',
+      description: 'Designing and building tailored digital products for international clients. Specializing in React, Next.js, and modern CSS architectures.',
+    },
+    {
+      id: 'exp3',
+      date: '2022 - 2024',
+      role: 'Front End Developer',
+      company: 'Tech Solutions & Automation Lab',
+      description: 'Developed responsive user interfaces, integrated REST APIs, and built efficient automation flows to optimize business productivity.',
+    },
+  ],
+  projects: [
+    {
+      id: 'p1',
+      title: 'Reware Studio Style',
+      category: 'web-dev',
+      categoryLabel: 'Web Development',
+      image: 'https://common-amber-p9fs4kgn.edgeone.dev/Screenshot%202026-07-10%20023042.png',
+      link: 'https://reware-studio-style.vercel.app',
+    },
+    {
+      id: 'p2',
+      title: 'Beauty Salone Ebon',
+      category: 'web-design',
+      categoryLabel: 'Web Design',
+      image: 'https://favourite-silver-jdjzs6lw.edgeone.dev/Screenshot%202026-07-10%20023248.png',
+      link: 'https://beauty-salone-ebon.vercel.app',
+    },
+    {
+      id: 'p3',
+      title: 'Constra Style',
+      category: 'web-dev',
+      categoryLabel: 'Web Development',
+      image: 'https://right-amaranth-a5pptrlv.edgeone.dev/Screenshot%202026-07-10%20023451.png',
+      link: 'https://constra-style.netlify.app',
+    },
+    {
+      id: 'p4',
+      title: 'Heartfelt Connections Azure',
+      category: 'web-design',
+      categoryLabel: 'Web Design',
+      image: 'https://cdn.phototourl.com/free/2026-07-09-c5d302a8-379b-4fdc-89b2-14aa27e67456.png',
+      link: 'https://heartfelt-connections-azure.vercel.app',
+    },
+  ],
+  pricing: [
+    {
+      id: 'landing-page',
+      name: 'Landing Page',
+      price: '₹1,999',
+      payment: 'Single Payment',
+      description: 'A professional landing page with a contact form and automatic email functionality. Perfect for getting your business online quickly.',
+      features: [
+        '1 Landing Page',
+        'Contact Form',
+        'Automatic Email Notifications',
+        'Mobile Optimized',
+      ],
+      popular: false,
+    },
+    {
+      id: 'standard-plan',
+      name: 'Standard Plan',
+      price: '₹4,999',
+      payment: 'Single Payment',
+      description: 'The perfect choice for businesses that need a professional multi-page website with essential features.',
+      features: [
+        '3 Pages',
+        'Contact Form',
+        'Automatic Email Notifications',
+        'Mobile Optimized',
+      ],
+      popular: true,
+    },
+  ],
+  testimonials: [
+    {
+      id: 't1',
+      name: 'Sundar',
+      role: 'Founder of ReWear Studio',
+      text: 'Excellent service, professional work, and timely delivery. Highly recommended for modern and high-quality web development.',
+      image: 'https://picsum.photos/seed/sundar/120/120',
+    },
+  ],
+  teamMembers: [
+    {
+      id: 'tm1',
+      name: 'Jai surya.k',
+      role: 'Cybersecurity Specialist',
+      description: 'Transforming cybersecurity challenges into innovative, reliable, and future-ready solutions through analytical thinking and continuous growth.',
+      email: 'jaisurya21trt@gmail.com',
+      image: '',
+      socials: {},
+    },
+    {
+      id: 'tm2',
+      name: 'Shalini',
+      role: 'Prompt Engineer',
+      description: 'A creative Prompt Engineer with excellent communication skills transforming ideas into intelligent AI solutions.',
+      email: 'shalinisrinivasantrt26@gmail.com',
+      image: '',
+      socials: {},
+    },
+    {
+      id: 'tm3',
+      name: 'Harshika',
+      role: 'Mobile App Developer',
+      description: 'Passionate about mobile app development, problem-solving, and delivering seamless digital experiences for users.',
+      email: 'harshikaharsh24@gamil.com',
+      image: '',
+      socials: {},
+    },
+  ],
+  contact: {
+    location: "Thandalam, Chennai – 600128, Tamil Nadu, India",
+    email: "nagi21048@gmail.com",
+    phone: "9952854282",
+  },
+  footer: {
+    brand: "Hari krishna",
+    address: "Thandalam, Chennai – 600128, Tamil Nadu, India",
+    copyrightText: "All Rights Reserved.",
+    designCredit: "Hari Krishna",
+  },
+  seo: {
+    title: "animenova - Hari krishna",
+    description: "The professional web development, UI/UX design, and automation portfolio of Hari krishna, the sole mind behind animenova.",
+    keywords: "Web Developer, UI/UX Designer, Automation, React, Next.js, Chennai, Portfolio",
+  },
+  brand: {
+    businessName: "AnimeNova",
+    brandStyle: "Modern"
+  },
+  navigation: [
+    { id: 'home', label: 'Home' },
+    { id: 'about', label: 'About' },
+    { id: 'service', label: 'Service' },
+    { id: 'experience', label: 'Experience' },
+    { id: 'portfolio', label: 'Portfolio' },
+    { id: 'pricing', label: 'Pricing' },
+    { id: 'review', label: 'Review' },
+    { id: 'team', label: 'Team' },
+    { id: 'contact', label: 'Contact' }
+  ]
+};
