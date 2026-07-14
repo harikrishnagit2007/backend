@@ -17,7 +17,7 @@ export const defaultSiteData: SiteData = {
   about: {
     title: "One mind, clear vision.",
     subtitle: "About Me",
-    desc1: "I'm Hari krishna — the sole mind behind animenova. No big team, no unnecessary meetings, no wasted hours.",
+    desc1: "I'm Hari krishna — the sole mind behind aninova. No big team, no unnecessary meetings, no wasted hours.",
     desc2: "As a young developer with innovative thinking, I work efficiently, with quality, and fast. I manage and execute everything myself to deliver the best result. No 500 hours of work for things that simply need to work. I'm the best partner you'll find when it comes to excellence.",
     skills: [
       { name: 'Web Development', value: 98 },
@@ -28,7 +28,7 @@ export const defaultSiteData: SiteData = {
       { label: 'Clients', value: '100%', description: 'Satisfied Clients', icon: 'Award' },
       { label: 'Founded', value: 'Apr, 2026', description: 'Agency Founded', icon: 'Calendar' }
     ],
-    bioModalText1: "Hari krishna is a passionate developer who founded animenova in April 2026 with a single focused vision: eliminating agency bloat and delivering high-performance, visually spectacular digital assets that grow your business.",
+    bioModalText1: "Hari krishna is a passionate developer who founded aninova in April 2026 with a single focused vision: eliminating agency bloat and delivering high-performance, visually spectacular digital assets that grow your business.",
     bioModalText2: "Instead of lengthy back-and-forths, Hari manages the entire design-to-live-deployment process independently. This results in ultra-fast turnaround times, clean codebase architectures, and uncompromised quality.",
     competencies: [
       'Pixel-Perfect Web Development',
@@ -64,8 +64,8 @@ export const defaultSiteData: SiteData = {
       id: 'exp1',
       date: 'April, 2026',
       role: 'Agency Founded',
-      company: 'animenova',
-      description: 'Founded animenova to help businesses grow by delivering high-performing, gorgeous websites and intelligent web automations.',
+      company: 'aninova',
+      description: 'Founded aninova to help businesses grow by delivering high-performing, gorgeous websites and intelligent web automations.',
     },
     {
       id: 'exp2',
@@ -85,18 +85,18 @@ export const defaultSiteData: SiteData = {
   projects: [
     {
       id: 'p1',
-      title: 'Reware Studio Style',
+      title: 'e-commerce Style',
       category: 'web-dev',
       categoryLabel: 'Web Development',
-      image: 'https://common-amber-p9fs4kgn.edgeone.dev/Screenshot%202026-07-10%20023042.png',
+      image: 'https://cdn.phototourl.com/free/2026-07-14-c677e1bf-aa5a-46a7-a0d7-56ab6da77f33.png',
       link: 'https://reware-studio-style.vercel.app',
     },
     {
       id: 'p2',
-      title: 'Beauty Salone Ebon',
+      title: 'Beauty Salone',
       category: 'web-design',
       categoryLabel: 'Web Design',
-      image: 'https://favourite-silver-jdjzs6lw.edgeone.dev/Screenshot%202026-07-10%20023248.png',
+      image: 'https://cdn.phototourl.com/free/2026-07-14-d2f86029-fddf-41bc-84b8-283a81b52600.png',
       link: 'https://beauty-salone-ebon.vercel.app',
     },
     {
@@ -104,12 +104,12 @@ export const defaultSiteData: SiteData = {
       title: 'Constra Style',
       category: 'web-dev',
       categoryLabel: 'Web Development',
-      image: 'https://right-amaranth-a5pptrlv.edgeone.dev/Screenshot%202026-07-10%20023451.png',
-      link: 'https://constra-style.netlify.app',
+      image: 'https://cdn.phototourl.com/free/2026-07-14-ed01cd1d-695b-4390-81ad-177ed8977a76.png',
+      link: 'https://constraa-style.netlify.app',
     },
     {
       id: 'p4',
-      title: 'Heartfelt Connections Azure',
+      title: 'Re/wear',
       category: 'web-design',
       categoryLabel: 'Web Design',
       image: 'https://cdn.phototourl.com/free/2026-07-09-c5d302a8-379b-4fdc-89b2-14aa27e67456.png',
@@ -196,12 +196,12 @@ export const defaultSiteData: SiteData = {
     designCredit: "Hari Krishna",
   },
   seo: {
-    title: "animenova - Hari krishna",
-    description: "The professional web development, UI/UX design, and automation portfolio of Hari krishna, the sole mind behind animenova.",
+    title: "aninova - Hari krishna",
+    description: "The professional web development, UI/UX design, and automation portfolio of Hari krishna, the sole mind behind aninova.",
     keywords: "Web Developer, UI/UX Designer, Automation, React, Next.js, Chennai, Portfolio",
   },
   brand: {
-    businessName: "AnimeNova",
+    businessName: "AniNova",
     brandStyle: "Modern"
   },
   navigation: [
