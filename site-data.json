@@ -15,7 +15,7 @@
   "about": {
     "title": "One mind, clear vision.",
     "subtitle": "About Me",
-    "desc1": "I'm Hari krishna — the sole mind behind animenova. No big team, no unnecessary meetings, no wasted hours.",
+    "desc1": "I'm Hari krishna — the sole mind behind aninova. No big team, no unnecessary meetings, no wasted hours.",
     "desc2": "As a young developer with innovative thinking, I work efficiently, with quality, and fast. I manage and execute everything myself to deliver the best result. No 500 hours of work for things that simply need to work. I'm the best partner you'll find when it comes to excellence.",
     "skills": [
       {
@@ -45,7 +45,7 @@
         "icon": "Calendar"
       }
     ],
-    "bioModalText1": "Hari krishna is a passionate developer who founded animenova in April 2026 with a single focused vision: eliminating agency bloat and delivering high-performance, visually spectacular digital assets that grow your business.",
+    "bioModalText1": "Hari krishna is a passionate developer who founded aninova in April 2026 with a single focused vision: eliminating agency bloat and delivering high-performance, visually spectacular digital assets that grow your business.",
     "bioModalText2": "Instead of lengthy back-and-forths, Hari manages the entire design-to-live-deployment process independently. This results in ultra-fast turnaround times, clean codebase architectures, and uncompromised quality.",
     "competencies": [
       "Pixel-Perfect Web Development",
@@ -81,8 +81,8 @@
       "id": "exp1",
       "date": "April, 2026",
       "role": "Agency Founded",
-      "company": "animenova",
-      "description": "Founded animenova to help businesses grow by delivering high-performing, gorgeous websites and intelligent web automations."
+      "company": "aninova",
+      "description": "Founded aninova to help businesses grow by delivering high-performing, gorgeous websites and intelligent web automations."
     },
     {
       "id": "exp2",
@@ -102,15 +102,15 @@
   "projects": [
     {
       "id": "p1",
-      "title": "Reware Studio Style",
+      "title": "e-commerce Style",
       "category": "web-dev",
       "categoryLabel": "Web Development",
-      "image": "/uploads/1783672590305_Screenshot_2026-07-10_023042.png",
-      "link": "https://reware-studio-style.vercel.app"
+      "image": "https://cdn.phototourl.com/free/2026-07-13-e89fb52e-e970-4c00-8fe3-e21f1fed00e2.png",
+      "link": https://reware-studio-style.vercel.app"
     },
     {
       "id": "p2",
-      "title": "Beauty Salone Ebon",
+      "title": "Beauty Salone ",
       "category": "web-design",
       "categoryLabel": "Web Design",
       "image": "https://cdn.phototourl.com/free/2026-07-10-3a6a7250-86ed-41d6-b6b8-1183e34dbb73.png",
@@ -122,7 +122,7 @@
       "category": "web-dev",
       "categoryLabel": "Web Development",
       "image": "https://cdn.phototourl.com/free/2026-07-10-61edf667-f123-4cd1-bfbd-7bbb2633e7d9.png",
-      "link": "https://constra-style.netlify.app"
+      "link": "https://constraa-style.netlify.app"
     },
     {
       "id": "p4",
@@ -213,12 +213,12 @@
     "designCredit": "Hari Krishna"
   },
   "brand": {
-    "businessName": "AnimeNova",
+    "businessName": "AniNova",
     "brandStyle": "Modern"
   },
   "seo": {
-    "title": "AnimeNova - Hari krishna",
-    "description": "The professional web development, UI/UX design, and automation portfolio of Hari krishna, the sole mind behind animenova.",
+    "title": "AniNova - Hari krishna",
+    "description": "The professional web development, UI/UX design, and automation portfolio of Hari krishna, the sole mind behind aninova.",
     "keywords": "Web Developer, UI/UX Designer, Automation, React, Next.js, Chennai, Portfolio"
   },
   "theme": {
