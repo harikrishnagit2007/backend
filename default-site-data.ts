@@ -109,11 +109,11 @@ export const defaultSiteData: SiteData = {
     },
     {
       id: 'p4',
-      title: 'Re/wear',
+      title: 'Gym Style',
       category: 'web-design',
       categoryLabel: 'Web Design',
-      image: 'https://cdn.phototourl.com/free/2026-07-09-c5d302a8-379b-4fdc-89b2-14aa27e67456.png',
-      link: 'https://heartfelt-connections-azure.vercel.app',
+      image: 'https://img.sanishtech.com/u/4946edb24cd1e4fb507cca5d64d563fc.png',
+      link: 'https://gym-studio-nine.vercel.app/',
     },
   ],
   pricing: [
