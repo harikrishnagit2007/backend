@@ -105,7 +105,7 @@ export const defaultSiteData: SiteData = {
       category: 'web-dev',
       categoryLabel: 'Web Development',
       image: 'https://cdn.phototourl.com/free/2026-07-14-ed01cd1d-695b-4390-81ad-177ed8977a76.png',
-      link: 'https://constraa-style.netlify.app',
+      link: 'https://agent-6a5dcf1521f0e85037da60fd--constraa-style.netlify.app/',
     },
     {
       id: 'p4',
